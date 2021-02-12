@@ -1,0 +1,3 @@
+iniciar um repositório - git init
+verificar o repositório - git status
+fazer um commit - git commit -m "comentário do commit"
